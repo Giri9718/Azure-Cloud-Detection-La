@@ -71,6 +71,7 @@ Generate security events on the VM and use KQL to query logs and extract relevan
 </p>
 <h3>6.Writing Analytic Rules and MITRE ATT&CK</h3>
 Create custom analytic rules in Sentinel to detect specific security events and explore MITRE ATT&CK tactics and techniques related to persistence.
+According to the MITRE Attack Framework, “Adversaries may abuse task scheduling functionality to facilitate initial or recurring execution of malicious code. Utilities exist within all major operating systems to schedule programs or scripts to be executed at a specified date and time”.
 <p align="center">
 <img src="https://i.imgur.com/1YcZx7x.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
